@@ -1,0 +1,9 @@
+security:
+  basic:
+    enabled: false
+  user:
+    name: user
+    password: turd
+management:
+  security:
+    enabled: false
